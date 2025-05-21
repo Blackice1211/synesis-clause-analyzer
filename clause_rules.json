@@ -1,0 +1,12 @@
+{
+  "Indemnity": {
+    "risk_level": "High",
+    "rule": "Clause must cap liability and exclude consequential damages.",
+    "suggestion": "Add a cap on indemnity and define exclusions."
+  },
+  "Confidentiality": {
+    "risk_level": "Medium",
+    "rule": "Should include duration and survival clause.",
+    "suggestion": "Add survival clause of 3 years post termination."
+  }
+}
